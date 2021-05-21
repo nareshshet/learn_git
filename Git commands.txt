@@ -1,0 +1,25 @@
+git init
+git status
+git add .
+git commit -m"|Message|"
+git push origin master
+git log
+git diff |file name with extention|
+	git diff |file name with extention|
+git reset file name
+git checkout file name
+git clone SSH link         |||if u put space . after url it wount create file
+
+
+ls -la shows all the files in the folder
+touch .gitignore    || touch creates the file
+
+
+git branch  --TO CHECK THE BRANCHES
+git branch |Branch name|--IT WILL CREATE NEW BRANCH
+git checkout filename --CHANGES FROM ONE TO ANOTHER
+git merge filename  
+git branch "Branch name"--DELETES THE BRANCH
+git push origin --delete login-system  --DELETE THE BRANCH FROM GIT HUB
+
+  
